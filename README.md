@@ -24,6 +24,7 @@ Prerequisites:
     Python 3.7 or later
    
     GPU with CUDA support (optional but recommended)
+   
 Clone the Repository:
 
     `git clone https://github.com/Shreyas-Dongre/Fashion-seg.git`
