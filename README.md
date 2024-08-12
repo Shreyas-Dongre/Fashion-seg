@@ -16,7 +16,9 @@ The pipeline includes several key steps:
 
     Saving the Result: The final binary mask is saved with an appropriate filename.
 
-2) Instructions on How to Install and Run the Code:
+2) Output result images are availablle in `output_mask` folder.
+
+3) Instructions on How to Install and Run the Code:
 Prerequisites:
 
     Python 3.7 or later
@@ -39,7 +41,7 @@ Running the Code:
     
     Run the Script OR open the ipynb and run the cells. (adjust input image path accordingly!)
     
-3) Assumptions or Decisions Made During Development:
+4) Assumptions or Decisions Made During Development:
    
   Pre-trained Model: The pre-trained U-Net model uses the timm-efficientnet-b3 encoder. It was chosen for its balance between accuracy and efficiency.
 
